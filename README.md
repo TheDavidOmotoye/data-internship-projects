@@ -1,2 +1,58 @@
 # Data-Internship-Projects
 Team internship projects focused on data analysis and storytelling
+
+## 📌 Overview
+This repository contains two data analysis projects being executed as part of our internship program. The focus is on delivering data-driven insights and strong storytelling.
+
+## 🎯 Objectives
+- Apply data cleaning and analysis techniques
+- Generate meaningful insights from datasets
+- Build clear and compelling data stories
+- Collaborate effectively as a team
+
+## 👥 Team Members
+- [David Oluwasegun Omotoye] – Team Lead
+- Lois Chidumebi Ellion-Tanze
+- Mercy Chinonyerem Chidozieodu
+- ⁠Justice Iloh
+- ⁠Ukele Okechukwu Rex
+- Sulu-Olalabi Olabode
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- SQL
+- Power BI / Tableau
+- GitHub for collaboration
+
+## 📂 Project Structure
+- Project-1/
+- Project-2/
+
+## 🚀 Project Workflow
+1. Problem Understanding  
+2. Data Cleaning  
+3. Exploratory Data Analysis (EDA)  
+4. Insight Generation  
+5. Data Visualization  
+6. Storytelling & Presentation  
+
+## 📅 Timeline
+- Week 1: Data cleaning & analysis  
+- Week 2: Visualization, storytelling & final presentation  
+
+## 📌 Current Status
+Project just kicked off.  
+- [ ] Project understanding  
+- [ ] Data cleaning  
+- [ ] Analysis  
+- [ ] Visualization  
+- [ ] Final presentation  
+
+## 🤝 Collaboration Guidelines
+- Use clear file names  
+- Upload work to the appropriate folders  
+- Communicate blockers early  
+- Keep raw data unchanged  
+
+## 📢 Updates
+This section will be updated as the project progresses.
