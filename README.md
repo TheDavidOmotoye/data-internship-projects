@@ -2,7 +2,7 @@
 Team internship projects focused on data analysis and storytelling
 
 ## 📌 Overview
-This repository contains two data analysis projects being executed as part of our internship program. The focus is on delivering data-driven insights and strong storytelling.
+This repository contains two data analysis projects executed as part of our internship program. The focus is on delivering data-driven insights and strong storytelling.
 
 ## 🎯 Objectives
 - Apply data cleaning and analysis techniques
@@ -42,11 +42,11 @@ This repository contains two data analysis projects being executed as part of ou
 
 ## 📌 Current Status
 Project just kicked off.  
-- [ ] Project understanding  
-- [ ] Data cleaning  
-- [ ] Analysis  
-- [ ] Visualization  
-- [ ] Final presentation  
+- [+] Project understanding  
+- [+] Data cleaning  
+- [+] Analysis  
+- [+] Visualization  
+- [+] Final presentation  
 
 ## 🤝 Collaboration Guidelines
 - Use clear file names  
