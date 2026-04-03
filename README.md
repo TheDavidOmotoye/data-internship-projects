@@ -25,8 +25,8 @@ This repository contains two data analysis projects executed as part of our inte
 - GitHub for collaboration
 
 ## 📂 Project Structure
-- Project-1/
-- Project-2/
+- HR_Attrition_Project/
+- Northwind_Traders/
 
 ## 🚀 Project Workflow
 1. Problem Understanding  
@@ -41,18 +41,10 @@ This repository contains two data analysis projects executed as part of our inte
 - Week 2: Visualization, storytelling & final presentation  
 
 ## 📌 Current Status
-Project just kicked off.  
+Project has been successfully completed.  
 - [+] Project understanding  
 - [+] Data cleaning  
 - [+] Analysis  
 - [+] Visualization  
-- [+] Final presentation  
+- [ ] Final presentation  
 
-## 🤝 Collaboration Guidelines
-- Use clear file names  
-- Upload work to the appropriate folders  
-- Communicate blockers early  
-- Keep raw data unchanged  
-
-## 📢 Updates
-This section will be updated as the project progresses.
