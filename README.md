@@ -46,5 +46,5 @@ Project has been successfully completed.
 - [+] Data cleaning  
 - [+] Analysis  
 - [+] Visualization  
-- [ ] Final presentation  
+- [+] Final presentation  
 
