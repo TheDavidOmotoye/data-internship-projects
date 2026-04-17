@@ -193,3 +193,9 @@ This project showcases the ability to:
 -Build professional BI dashboards
 
 -Communicate insights effectively
+
+---
+
+> ### Built with SQL and Power BI, focused on uncovering insights across sales, customers, and operations.
+
+© 2026 David Omotoye
