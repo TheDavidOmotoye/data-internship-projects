@@ -48,3 +48,5 @@ Project has been successfully completed.
 - [+] Visualization  
 - [+] Final presentation  
 
+---
+> ### Data transformed into insights. Insights driving decisions — powered by teamwork.
