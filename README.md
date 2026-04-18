@@ -1,5 +1,12 @@
-# Data-Internship-Projects
+# Data Internship Projects - Group 1
 Team internship projects focused on data analysis and storytelling
+
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi)
+
 
 ## 📌 Overview
 This repository contains two data analysis projects executed as part of our internship program. The focus is on delivering data-driven insights and strong storytelling.
