@@ -13,15 +13,15 @@ From data cleaning to final dashboards, the objective was to identify the driver
 
 The workflow covered:
 
--Data cleaning and transformation
+- Data cleaning and transformation
 
--Feature engineering
+- Feature engineering
 
--Exploratory data analysis (EDA)
+- Exploratory data analysis (EDA)
 
--Dashboard development
+- Dashboard development
 
--Business insight generation
+- Business insight generation
 
 ## 🎯 Problem Statement
 
@@ -55,53 +55,53 @@ Features: 35 variables
 
 Includes:
 
--Demographics
+- Demographics
 
--Job roles and departments
+- Job roles and departments
 
--Compensation details
+- Compensation details
 
--Performance and satisfaction metrics
+- Performance and satisfaction metrics
 
 ## 🧹 Data Preparation (Completed)
 
 Using Power Query, the dataset was cleaned and enhanced:
 
-Removed 3 constant columns
+- Removed 3 constant columns
 
-Transformed encoded variables into readable formats
+- Transformed encoded variables into readable formats
 
--Created new analytical fields:
+- Created new analytical fields:
 
--Attrition_Flag (binary indicator)
+- Attrition_Flag (binary indicator)
 
--AgeBand, IncomeBand, TenureBand
+- AgeBand, IncomeBand, TenureBand
 
--Compensation Ratio
+- Compensation Ratio
 
--Retention Risk Score
+- Retention Risk Score
 
--Risk Band classification
+- Risk Band classification
 
--Performed logical consistency checks to ensure data accuracy
+- Performed logical consistency checks to ensure data accuracy
 
 ## 📊 Analysis Performed
 
 The following analyses were successfully completed:
 
--Attrition rate by Department
+- Attrition rate by Department
 
--Attrition rate by Job Role
+- Attrition rate by Job Role
 
--Attrition by Age Band and Tenure Band
+- Attrition by Age Band and Tenure Band
 
--Impact of Overtime on Attrition
+- Impact of Overtime on Attrition
 
--Relationship between Compensation and Attrition
+- Relationship between Compensation and Attrition
 
--Gender Pay Gap Analysis
+- Gender Pay Gap Analysis
 
--Job Satisfaction vs Attrition
+- Job Satisfaction vs Attrition
 
 ## 📈 Dashboard Deliverables
 
@@ -111,73 +111,73 @@ Three dashboards were developed in Tableau:
 
 Provides a high-level overview of:
 
--Total Employees
+- Total Employees
 
--Attrition Rate
+- Attrition Rate
 
--Average Income
+- Average Income
 
--Average Age
+- Average Age
 
--Department-level attrition trends
+- Department-level attrition trends
 
 2️⃣ Compensation & Performance Dashboard
 
 Focuses on:
 
--Salary distribution across job roles
+- Salary distribution across job roles
 
--Compensation vs attrition patterns
+- Compensation vs attrition patterns
 
--Job satisfaction insights
+- Job satisfaction insights
 
 3️⃣ Attrition Risk Intelligence Dashboard
 
--Designed to support decision-making:
+- Designed to support decision-making:
 
--Employee segmentation into risk bands
+- Employee segmentation into risk bands
 
--Identification of high-risk groups
+- Identification of high-risk groups
 
--Insights for proactive retention strategies
+- Insights for proactive retention strategies
 
 ## 🔍 Key Findings
 
--Employees working overtime exhibit significantly higher attrition
+- Employees working overtime exhibit significantly higher attrition
 
--Attrition is highest among lower income bands
+- Attrition is highest among lower income bands
 
--Certain job roles and departments show concentrated turnover
+- Certain job roles and departments show concentrated turnover
 
--Employees within 0–3 years tenure are the most vulnerable
+- Employees within 0–3 years tenure are the most vulnerable
 
--Low job satisfaction strongly correlates with higher attrition
+- Low job satisfaction strongly correlates with higher attrition
 
 ## 💡 Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
--Prioritize retention strategies for high-risk roles and departments
+- Prioritize retention strategies for high-risk roles and departments
 
--Improve compensation structure and equity
+- Improve compensation structure and equity
 
--Reduce excessive overtime workload
+- Reduce excessive overtime workload
 
--Strengthen employee engagement and satisfaction programs
+- Strengthen employee engagement and satisfaction programs
 
--Implement early-tenure retention initiatives
+- Implement early-tenure retention initiatives
 
 ## 🚀 Project Outcome
 
 This project successfully transformed raw HR data into a structured analytical solution that:
 
--Identifies key drivers of employee attrition
+- Identifies key drivers of employee attrition
 
--Provides clear, data-driven insights
+- Provides clear, data-driven insights
 
--Supports strategic HR decision-making
+- Supports strategic HR decision-making
 
--Demonstrates end-to-end data analytics capability
+- Demonstrates end-to-end data analytics capability
 
 ## 👤 Author
 
@@ -193,13 +193,13 @@ Tools: Excel, SQL, Tableau, Power BI
 
 This project demonstrates the ability to:
 
--Clean and structure real-world datasets
+- Clean and structure real-world datasets
 
--Perform meaningful business analysis
+- Perform meaningful business analysis
 
--Build professional dashboards
+- Build professional dashboards
 
--Communicate insights effectively
+- Communicate insights effectively
 
 ---
 > ### Built with Excel, Tableau, and a strong focus on business insights.
